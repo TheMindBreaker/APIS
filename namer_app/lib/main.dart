@@ -2,6 +2,7 @@ import 'package:english_words/english_words.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
+// Fernando Ruiz Velasco Hernandez A01229632
 void main() {
   runApp(MyApp());
 }
